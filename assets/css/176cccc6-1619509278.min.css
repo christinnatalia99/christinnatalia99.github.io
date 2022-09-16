@@ -8,18 +8,26 @@
   
 }
 .img_s_3{
-  content:url("../img/sertifikat/Sertifikat PHP Advanced.png") !important;
+  content:url("../img/sertifikat/Sertif Webinar1.png") !important;
   
 }
 .img_s_4{
-  content:url("../img/sertifikat/Sertifikat Codeigniter.png") !important;
+  content:url("../img/sertifikat/Sertif Webinar2.jpg") !important;
   
 }
 .img_s_5{
-  content:url("../img/sertifikat/Sertifikat Javascript Dasar.png") !important;
+  content:url("../img/sertifikat/Sertif Webinar3.jpg") !important;
   
 }
 .img_s_6{
-  content:url("../img/sertifikat/Sertifikat NodeJS.jpg") !important;
+  content:url("../img/sertifikat/Sertif RSUD Tarakan.jpg") !important;
+  
+}
+.img_s_7{
+  content:url("../img/sertifikat/Sertif IGD.jpeg") !important;
+  
+}
+.img_s_8{
+  content:url("../img/sertifikat/Sertifikat BTCLS.jpg") !important;
   
 }

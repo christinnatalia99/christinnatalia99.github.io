@@ -52,43 +52,63 @@
     });
     
     $('.a_s_3').click(function(){
-      var newUrl = "assets/img/sertifikat/Sertifikat PHP Advanced.png";
+      var newUrl = "assets/img/sertifikat/Sertif Webinar1.png";
       $(this).attr("href", newUrl); var url=$(this).attr("href");
       setTimeout(function(){
-        if(url=="assets/img/sertifikat/Sertifikat PHP Advanced.png"){
+        if(url=="assets/img/sertifikat/Sertif Webinar1.png"){
           $(".a_s_3").attr("href", "http://i.stack.imgur.com/smHPA.png");
         }
       }, 1000);
     });
     
     $('.a_s_4').click(function(){
-      var newUrl = "assets/img/sertifikat/Sertifikat Codeigniter.png";
+      var newUrl = "assets/img/sertifikat/Sertif Webinar2.jpg";
       $(this).attr("href", newUrl); var url=$(this).attr("href");
       setTimeout(function(){
-        if(url=="assets/img/sertifikat/Sertifikat Codeigniter.png"){
+        if(url=="assets/img/sertifikat/Sertif Webinar2.jpg"){
           $(".a_s_4").attr("href", "http://i.stack.imgur.com/smHPA.png");
         }
       }, 1000);
     });
 
     $('.a_s_5').click(function(){
-      var newUrl = "assets/img/sertifikat/Sertifikat Javascript Dasar.png";
+      var newUrl = "assets/img/sertifikat/Sertif Webinar3.jpg";
       $(this).attr("href", newUrl); var url=$(this).attr("href");
       setTimeout(function(){
-        if(url=="assets/img/sertifikat/Sertifikat Javascript Dasar.png"){
+        if(url=="assets/img/sertifikat/Sertif Webinar3.jpg"){
           $(".a_s_5").attr("href", "http://i.stack.imgur.com/smHPA.png");
         }
       }, 1000);
     });
     
     $('.a_s_6').click(function(){
-      var newUrl = "assets/img/sertifikat/Sertifikat NodeJS.jpg"
+      var newUrl = "assets/img/sertifikat/Sertif RSUD Tarakan.jpg"
       $(this).attr("href", newUrl); var url=$(this).attr("href");
       setTimeout(function(){
-        if(url=="assets/img/sertifikat/Sertifikat NodeJS.jpg"){
+        if(url=="assets/img/sertifikat/Sertif RSUD Tarakan.jpg"){
           $(".a_s_6").attr("href", "http://i.stack.imgur.com/smHPA.png");
         }
       }, 1000);
-    });   
+    });
+
+ 	$('.a_s_7').click(function(){
+      var newUrl = "assets/img/sertifikat/Sertif IGD.jpeg"
+      $(this).attr("href", newUrl); var url=$(this).attr("href");
+      setTimeout(function(){
+        if(url=="assets/img/sertifikat/Sertif IGD.jpeg"){
+          $(".a_s_7").attr("href", "http://i.stack.imgur.com/smHPA.png");
+        }
+      }, 1000);
+    });
+	
+ 	$('.a_s_8').click(function(){
+      var newUrl = "assets/img/sertifikat/Sertifikat BTCLS.jpg"
+      $(this).attr("href", newUrl); var url=$(this).attr("href");
+      setTimeout(function(){
+        if(url=="assets/img/sertifikat/Sertifikat BTCLS.jpg"){
+          $(".a_s_8").attr("href", "http://i.stack.imgur.com/smHPA.png");
+        }
+      }, 1000);
+    });
 
 })(jQuery);
